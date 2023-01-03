@@ -13,7 +13,7 @@ https://github.com/x4nth055/pythoncode-tutorials/tree/master/machine-learning/fa
 https://thispersondoesnotexist.com/
 
 ## Packages used:
-numpy, opencv, requests, turkish_name_generator, shutil, 
+numpy, opencv, requests, turkish_name_generator, shutil
 
 
 ## References:
