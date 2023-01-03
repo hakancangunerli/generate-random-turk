@@ -4,3 +4,4 @@ generates a random "turkish" person with a name using trnames and a picture usin
 ## References:
 
 https://github.com/x4nth055/pythoncode-tutorials
+https://docs.streamlit.io/knowledge-base/dependencies/libgl
